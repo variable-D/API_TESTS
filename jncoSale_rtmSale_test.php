@@ -1,11 +1,12 @@
 <?php
 date_default_timezone_set('Asia/Seoul');
+// oauth2.0 인증방식 입니다. 
 
 function getAuthToken($clientId, $clientSecret) {
     $url = 'https://sbx-openapi.lguplus.co.kr/uplus/extuser/oauth2/token';
     $data = [
         'grant_type' => 'client_credentials',
-        'scope' => 'BL',
+        'scope' => 'BL', // 범위 
         'client_id' => $clientId,
         'client_secret' => $clientSecret
     ];
@@ -85,8 +86,8 @@ function logMessage($message) {
     file_put_contents($logFile, "[$currentTime] $message\n", FILE_APPEND);
 }
 
-$clientId = 'c196c8d3f2917825a850370866d1a40b';
-$clientSecret = 'e2c9bfd2cf525de8f8cad04c47cb82a3';
+$clientId = '시크릿아이디'; 
+$clientSecret = '시크릿비밀번호';
 $authToken = getAuthToken($clientId, $clientSecret);
 
 if ($authToken) {
@@ -97,15 +98,15 @@ if ($authToken) {
         "userId" => base64_encode("koreasim"),
         "psno" => base64_encode("1234567878"),
         "jncoCd" => "039",
-        "custNm" => base64_encode("변동환"),
-        "bday" => base64_encode("19960513"),
+        "custNm" => base64_encode("김환동"),
+        "bday" => base64_encode("20000613"),
         "countryCd" => "KOR",
         "sex" => "F",
         "loclCtplc" => base64_encode("01066503018"),
         "cprtChnlNm" => null,
         "dsReSaleProdInfo" => [
             [
-                "devPpCd" => "ESIM000003",
+                "devPpCd" => "상품코드",
                 "saleCnt" => 1,
             ]
         ]
