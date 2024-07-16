@@ -1,0 +1,103 @@
+2024-07-15 10:50:29 - Original String: 1039154534AA34A31039120240715105029424836변동환010666633331721008229220eSIM-test1
+2024-07-15 10:50:29 - Generated autoGraph: 1408950cdeacfa835098004932d8cfe5b3c333ce
+2024-07-15 10:50:29 - Request Data: {"customerCode":"10391","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721008229220,"autoGraph":"1408950cdeacfa835098004932d8cfe5b3c333ce","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 10:50:29 - Curl error: TCP connection reset by peer
+2024-07-15 10:50:29 - Response Data: null
+2024-07-15 10:50:29 - Error: Unknown error
+2024-07-15 10:50:40 - Original String: 1039154534AA34A31039120240715105040866678변동환010666633331721008240538eSIM-test1
+2024-07-15 10:50:40 - Generated autoGraph: fed6baa86ee7768fc043a416ae9e1ef247e77076
+2024-07-15 10:50:40 - Request Data: {"customerCode":"10391","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721008240538,"autoGraph":"fed6baa86ee7768fc043a416ae9e1ef247e77076","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 10:50:40 - Curl error: TCP connection reset by peer
+2024-07-15 10:50:40 - Response Data: null
+2024-07-15 10:50:40 - Error: Unknown error
+2024-07-15 10:51:07 - Original String: 1039154534AA34A31039120240715105107681934변동환010666633331721008267750eSIM-test1
+2024-07-15 10:51:07 - Generated autoGraph: 9b43a464fcc4ced2cf5ce87a46ccad729eae1477
+2024-07-15 10:51:07 - Request Data: {"customerCode":"10391","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721008267750,"autoGraph":"9b43a464fcc4ced2cf5ce87a46ccad729eae1477","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 10:51:08 - Response Data: {"code":1,"message":"\u8bf7\u6c42\u53c2\u6570\u9274\u6743\u5931\u8d25","data":null}
+2024-07-15 10:51:08 - Error: 请求参数鉴权失败
+2024-07-15 10:53:09 - Original String: 1039154534AA34A31039120240715105309582883변동환010666633331721008389426eSIM-test1
+2024-07-15 10:53:09 - Generated autoGraph: 5ec9458792ae15b8f4d193dc7ab2215071dc7c92
+2024-07-15 10:53:09 - Request Data: {"customerCode":"10391","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721008389426,"autoGraph":"5ec9458792ae15b8f4d193dc7ab2215071dc7c92","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 10:53:10 - Response Data: {"code":1,"message":"\u8bf7\u6c42\u53c2\u6570\u9274\u6743\u5931\u8d25","data":null}
+2024-07-15 10:53:10 - Error: 请求参数鉴权失败
+2024-07-15 10:53:39 - Original String: 1039154534AA34A31039120240715105339746118변동환010666633331721008419047eSIM-test1
+2024-07-15 10:53:39 - Generated autoGraph: 4bfa33891432307cfb3feb99bfcd6230b380907d
+2024-07-15 10:53:39 - Request Data: {"customerCode":"10391","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721008419047,"autoGraph":"4bfa33891432307cfb3feb99bfcd6230b380907d","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 10:53:39 - Response Data: {"code":1,"message":"\u8bf7\u6c42\u53c2\u6570\u9274\u6743\u5931\u8d25","data":null}
+2024-07-15 10:53:39 - Error: 请求参数鉴权失败
+2024-07-15 10:55:54 - Original String: 1039154534AA34A31039120240715105554461120변동환010666633331721008554866eSIM-test1
+2024-07-15 10:55:54 - Generated autoGraph: a77baddfbf5fef06bfd2f3278b6f8ce5b6a03861
+2024-07-15 10:55:54 - Request Data: {"customerCode":"10391","orderTid":"1039120240715105554461120","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721008554866,"autoGraph":"a77baddfbf5fef06bfd2f3278b6f8ce5b6a03861","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 10:55:55 - Curl error: TCP connection reset by peer
+2024-07-15 10:55:55 - Response Data: null
+2024-07-15 10:55:55 - Error: Unknown error
+2024-07-15 10:56:28 - Original String: 1039154534AA34A31039120240715105628590747변동환010666633331721008588293eSIM-test1
+2024-07-15 10:56:28 - Generated autoGraph: 2fd6d282781e2c01a49195d6772a4576d31b528d
+2024-07-15 10:56:28 - Request Data: {"customerCode":"10391","orderTid":"1039120240715105628590747","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721008588293,"autoGraph":"2fd6d282781e2c01a49195d6772a4576d31b528d","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 10:56:29 - Response Data: {"code":0,"message":"\u64cd\u4f5c\u6210\u529f","data":{"orderTid":"1039120240715105628590747","orderCode":"DD-240715-1982789"}}
+2024-07-15 10:56:29 - Operation Success
+Order TID: 1039120240715105628590747
+Order Code: DD-240715-1982789
+2024-07-15 11:17:00 - Original String: 1039154534AA34A31039120240715111700196302변동환010666633331721009820005eSIM-test1
+2024-07-15 11:17:00 - Generated autoGraph: 42313cbf4d16861d80ff9d96047fcb4443c57330
+2024-07-15 11:17:00 - Request Data: {"customerCode":"10391","orderTid":"1039120240715111700196302","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721009820005,"autoGraph":"42313cbf4d16861d80ff9d96047fcb4443c57330","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 11:17:00 - Response Data: {"code":0,"message":"\u64cd\u4f5c\u6210\u529f","data":{"orderTid":"1039120240715111700196302","orderCode":"DD-240715-1982923"}}
+2024-07-15 11:17:00 - Operation Success
+Order TID: 1039120240715111700196302
+Order Code: DD-240715-1982923
+2024-07-15 11:19:05 - Original String: 1039154534AA34A31039120240715111905451135변동환010666633331721009945524eSIM-test1
+2024-07-15 11:19:05 - Generated autoGraph: 97921c37452b2ce0bf715702a0a86c06adb4d537
+2024-07-15 11:19:05 - Request Data: {"customerCode":"10391","orderTid":"1039120240715111905451135","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721009945524,"autoGraph":"97921c37452b2ce0bf715702a0a86c06adb4d537","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 11:19:06 - Response Data: {"code":0,"message":"\u64cd\u4f5c\u6210\u529f","data":{"orderTid":"1039120240715111905451135","orderCode":"DD-240715-1982934"}}
+2024-07-15 11:19:06 - Operation Success
+Order TID: 1039120240715111905451135
+Order Code: DD-240715-1982934
+2024-07-15 11:27:45 - Original String: 1039154534AA34A31039120240715112745799306변동환010666633331721010465473eSIM-test1
+2024-07-15 11:27:45 - Generated autoGraph: 894b82d74aaf72e419f1a3d267ca0f1ccd4ae332
+2024-07-15 11:27:45 - Request Data: {"customerCode":"10391","orderTid":"1039120240715112745799306","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721010465473,"autoGraph":"894b82d74aaf72e419f1a3d267ca0f1ccd4ae332","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 11:27:46 - Response Data: {"code":0,"message":"\u64cd\u4f5c\u6210\u529f","data":{"orderTid":"1039120240715112745799306","orderCode":"DD-240715-1983000"}}
+2024-07-15 11:27:46 - Operation Success
+Order TID: 1039120240715112745799306
+Order Code: DD-240715-1983000
+2024-07-15 11:30:33 - Original String: 1039154534AA34A31039120240715113033306337변동환010666633331721010633537eSIM-test1
+2024-07-15 11:30:33 - Generated autoGraph: 4b3a18bda0f4c87dbe63d14d73dd69ab465617fd
+2024-07-15 11:30:33 - Request Data: {"customerCode":"10391","orderTid":"1039120240715113033306337","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721010633537,"autoGraph":"4b3a18bda0f4c87dbe63d14d73dd69ab465617fd","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 11:30:34 - Response Data: {"code":0,"message":"\u64cd\u4f5c\u6210\u529f","data":{"orderTid":"1039120240715113033306337","orderCode":"DD-240715-1983016"}}
+2024-07-15 11:30:34 - Operation Success
+Order TID: 1039120240715113033306337
+Order Code: DD-240715-1983016
+2024-07-15 11:34:55 - Original String: 1039154534AA34A31039120240715113455663891변동환010666633331721010895119eSIM-test1
+2024-07-15 11:34:55 - Generated autoGraph: 3971153642b1b4fc1ad3350133640db6f82178e9
+2024-07-15 11:34:55 - Request Data: {"customerCode":"10391","orderTid":"1039120240715113455663891","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721010895119,"autoGraph":"3971153642b1b4fc1ad3350133640db6f82178e9","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 11:34:56 - Response Data: {"code":0,"message":"\u64cd\u4f5c\u6210\u529f","data":{"orderTid":"1039120240715113455663891","orderCode":"DD-240715-1983038"}}
+2024-07-15 11:34:56 - Operation Success
+Order TID: 1039120240715113455663891
+Order Code: DD-240715-1983038
+2024-07-15 11:38:59 - Original String: 1039154534AA34A31039120240715113859486701변동환010666633331721011139082eSIM-test1
+2024-07-15 11:38:59 - Generated autoGraph: 3cac9e649ca61a97150ad3f106f4a14a29c1dfae
+2024-07-15 11:38:59 - Request Data: {"customerCode":"10391","orderTid":"1039120240715113859486701","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721011139082,"autoGraph":"3cac9e649ca61a97150ad3f106f4a14a29c1dfae","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 11:39:00 - Response Data: {"code":0,"message":"\u64cd\u4f5c\u6210\u529f","data":{"orderTid":"1039120240715113859486701","orderCode":"DD-240715-1983079"}}
+2024-07-15 11:39:00 - Operation Success
+Order TID: 1039120240715113859486701
+Order Code: DD-240715-1983079
+2024-07-15 11:43:04 - Original String: 1039154534AA34A31039120240715114304464668변동환010666633331721011384346eSIM-test1
+2024-07-15 11:43:04 - Generated autoGraph: bf2542fc2ad866b5d9f0fb5afdacffff9559ed06
+2024-07-15 11:43:04 - Request Data: {"customerCode":"10391","orderTid":"1039120240715114304464668","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721011384346,"autoGraph":"bf2542fc2ad866b5d9f0fb5afdacffff9559ed06","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 11:43:05 - Response Data: {"code":0,"message":"\u64cd\u4f5c\u6210\u529f","data":{"orderTid":"1039120240715114304464668","orderCode":"DD-240715-1983109"}}
+2024-07-15 11:43:05 - Operation Success
+Order TID: 1039120240715114304464668
+Order Code: DD-240715-1983109
+2024-07-15 11:45:44 - Original String: 1039154534AA34A31039120240715114544150921변동환010666633331721011544242eSIM-test1
+2024-07-15 11:45:44 - Generated autoGraph: 684b42cfec6769843521880b71cba4c46aad916e
+2024-07-15 11:45:44 - Request Data: {"customerCode":"10391","orderTid":"1039120240715114544150921","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721011544242,"autoGraph":"684b42cfec6769843521880b71cba4c46aad916e","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 11:45:45 - Response Data: {"code":0,"message":"\u64cd\u4f5c\u6210\u529f","data":{"orderTid":"1039120240715114544150921","orderCode":"DD-240715-1983121"}}
+2024-07-15 11:45:45 - Operation Success
+Order TID: 1039120240715114544150921
+Order Code: DD-240715-1983121
+2024-07-15 11:50:57 - Original String: 1039154534AA34A31039120240715115057116169변동환010666633331721011857807eSIM-test1
+2024-07-15 11:50:57 - Generated autoGraph: a5cada8de0bd83fe13ce54c7c291dade366e3475
+2024-07-15 11:50:57 - Request Data: {"customerCode":"10391","orderTid":"1039120240715115057116169","type":3,"receiveName":"변동환","phone":"01066663333","timestamp":1721011857807,"autoGraph":"a5cada8de0bd83fe13ce54c7c291dade366e3475","remark":"test","itemList":[{"productCode":"eSIM-test","quantity":1}],"email":"prepia.hwan@gmail.com"}
+2024-07-15 11:50:58 - Response Data: {"code":0,"message":"\u64cd\u4f5c\u6210\u529f","data":{"orderTid":"1039120240715115057116169","orderCode":"DD-240715-1983150"}}
+2024-07-15 11:50:58 - Operation Success
+Order TID: 1039120240715115057116169
+Order Code: DD-240715-1983150
